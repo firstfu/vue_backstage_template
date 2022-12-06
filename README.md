@@ -1,4 +1,4 @@
-# <center>鑫威利管理後台</center>
+# <center>管理後台</center>
 
 <!-- English | [简体中文](./README-zh.md) -->
 

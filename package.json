@@ -1,7 +1,7 @@
 {
   "name": "swz_backstage",
   "version": "1.0.0",
-  "description": "鑫威利後台管理系統",
+  "description": "管理後台",
   "author": "firstfu",
   "scripts": {
     "start:dev": "export NODE_OPTIONS=--openssl-legacy-provider && vue-cli-service serve  --mode development",
